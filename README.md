@@ -6,6 +6,7 @@ to learn so many things
 # Features 📋
 ⚡️ Fully Responsive
 ⚡️ Valid HTML5 & CSS3
+# javascript
 # Installation & Deployment 📦
 - Clone the repository and modify the content of `index.html`
 - Update the info of `projects` folder according to your need
